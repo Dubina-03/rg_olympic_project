@@ -1,0 +1,101 @@
+game,place,country,name,score
+TOKYO 2020,1,ISR,Linoy Ashram,107.800
+TOKYO 2020,2,RUS,Dina Averina,107.650
+TOKYO 2020,3,BLR,Alina Harnasko,102.700
+TOKYO 2020,4,RUS,Arina Averina,102.100
+TOKYO 2020,5,BUL,Boryana Kaleyn,100.625
+TOKYO 2020,6,ITA,Milena Baldassarri,99.625
+TOKYO 2020,7,ISR,Nicol Zelikman,95.600
+TOKYO 2020,8,BLR,Anastasiia Salos,95.175
+TOKYO 2020,9,UKR,Khrystyna Pohranychna,95.100
+TOKYO 2020,10,UKR,Viktoriia Onopriienko,93.350
+RIO 2016,1,RUS,Margarita Mamun,76.483
+RIO 2016,2,RUS,Yana Kudryavtseva,75.608
+RIO 2016,3,UKR,Ganna Rizatdinova,73.583
+RIO 2016,4,KOR,Yeon Jae Son,72.898
+RIO 2016,5,BLR,Melitina Staniouta,71.133
+RIO 2016,6,BLR,Katsiaryna Halkina,70.932
+RIO 2016,7,BUL,Neviana Vladinova,70.733
+RIO 2016,8,ESP,Carolina Rodriguez,69.949
+RIO 2016,9,AZE,Marina Durunda,69.748
+RIO 2016,10,FRA,Kseniya Moustafaeva,68.240
+LONDON 2012,1,RUS,Yevgeniya Kanayeva,116.900
+LONDON 2012,2,RUS,Darya Dmitriyeva,114.500
+LONDON 2012,3,BLR,Lyubov Cherkashina,111.700
+LONDON 2012,4,AZE,Aliyə Qarayeva,111.575
+LONDON 2012,5,KOR,Yeon Jae Son,111.475
+LONDON 2012,6,UKR,Alina Maksymenko,109.625
+LONDON 2012,7,ISR,Neta Rivkin,109.000
+LONDON 2012,8,BUL,Silviya Miteva,108.950
+LONDON 2012,9,POL,Joanna Mitrosz,108.900
+LONDON 2012,10,UKR,Ganna Rizatdinova,107.400
+BEIJING 2008,1,RUS,Yevgeniya Kanayeva,"75,500"
+BEIJING 2008,2,BLR,Inna Zhukova,"71,925"
+BEIJING 2008,3,UKR,Hanna Bezsonova,"72,825"
+BEIJING 2008,4,RUS,Olga Kapranova,"72,900"
+BEIJING 2008,5,KAZ,Aliya Yussupova,"69,800"
+BEIJING 2008,6,AZE,Aliyə Qarayeva,"69,675"
+BEIJING 2008,7,UKR,Nataliya Hodunko,"69,400"
+BEIJING 2008,8,ESP,Almudena Cid,"68,100"
+BEIJING 2008,9,ISR,Irina Risenzon,"67,850"
+BEIJING 2008,10,BUL,Simona Peycheva,"67,175"
+ATHENS 2004,1,RUS,Alina Kabaeva,108.400
+ATHENS 2004,2,RUS,Irina Tchachina,107.325
+ATHENS 2004,3,UKR,Hanna Bezsonova,106.700
+ATHENS 2004,4,KAZ,Aliya Yussupova,103.975
+ATHENS 2004,5,UKR,Nataliya Hodunko,103.800
+ATHENS 2004,6,BUL,Simona Peycheva,101.050
+ATHENS 2004,7,BLR,Inna Zhukova,100.575
+ATHENS 2004,8,ESP,Almudena Cid,98.450
+ATHENS 2004,9,GRE,Eleni Andriola,97.600
+ATHENS 2004,10,BLR,Svetlana Rudalova,97.275
+SYDNEY 2000,1,RUS,Yuliya Barsukova,39.632
+SYDNEY 2000,2,BLR,Yulia Raskina,39.548
+SYDNEY 2000,3,RUS,Alina Kabaeva,39.466
+SYDNEY 2000,4,UKR,Olena Vitrychenko,39.408
+SYDNEY 2000,5,FRA,Eva Serrano,39.390
+SYDNEY 2000,6,UKR,Tamara Yerofeeva,39.000
+SYDNEY 2000,7,GRE,Dona Evmorfia,38.982
+SYDNEY 2000,8,BLR,Valeria Vatkina,38.957
+SYDNEY 2000,9,ESP,Almudena Cid,38.907
+SYDNEY 2000,10,ITA,Susanna Marchesi,38.850
+ATLANTA 1996,1,UKR,Kateryna Serebrianska,39.683
+ATLANTA 1996,2,RUS,Yana Batyrshina,39.382
+ATLANTA 1996,3,UKR,Olena Vitrychenko,39.331
+ATLANTA 1996,4,RUS,Amina Zaripova,39.264
+ATLANTA 1996,5,BUL,Maria Dimitrova Petrova,38.999
+ATLANTA 1996,6,FRA,Eva Serrano,38.816
+ATLANTA 1996,7,BLR,Larisa Loukianenko,38.666
+ATLANTA 1996,8,BLR,Tatiana Ogryzko,38.530
+ATLANTA 1996,9,ESP,Almudena Cid,38.515
+ATLANTA 1996,10,GER,Magdalena Brzeska,38.315
+BARCELONA 1992,1,UKR,Oleksandra Tymoshenko,59.037
+BARCELONA 1992,2,ESP,Carolina Pascual Gracia,58.100
+BARCELONA 1992,3,UKR,Oksana Skaldina,57.912
+BARCELONA 1992,4,ESP,Carmen Acedo Jorge,57.225
+BARCELONA 1992,5,BUL,Maria Dimitrova Petrova,57.087
+BARCELONA 1992,6,ROU,Irina Deleanu,56.612
+BARCELONA 1992,7,POL,Joanna Bodak,56.475
+BARCELONA 1992,8,TCH,Lenka Oulehlova,56.137
+BARCELONA 1992,9,BUL,Diana Antonieva Popova,47.325
+BARCELONA 1992,10,GER,Christiane Klumpp,45.975
+SEOUL 1988,1,URS,Marina Lobach,60.000
+SEOUL 1988,2,BUL,Adriana Dunavska,59.950
+SEOUL 1988,3,URS,Oleksandra Tymoshenko,59.875
+SEOUL 1988,4,BUL,Bianka Panova,59.725
+SEOUL 1988,5,ESP,Maria Isabel Lloret Ivorra,58.900
+SEOUL 1988,6,HUN,Andrea Sinko,58.775
+SEOUL 1988,7,POL,Tereza Folga,58.625
+SEOUL 1988,8,FRG,Diana Schmiemann,58.600
+SEOUL 1988,9,YUG,Milena Reljin,58.500
+SEOUL 1988,10,CAN,Mary Fuzesi,58.450
+LOS ANGELES 1984,1,CAN,Lori Fung,57.950
+LOS ANGELES 1984,2,ROU,Doina Staiculescu,57.900
+LOS ANGELES 1984,3,FRG,Regina Weber,57.700
+LOS ANGELES 1984,4,ROU,Alina Dragan,57.375
+LOS ANGELES 1984,5,YUG,Milena Reljin,57.250
+LOS ANGELES 1984,6,ESP,Marta Canton Gutierrez,56.950
+LOS ANGELES 1984,7,ITA,Giulia Staccioli,56.775
+LOS ANGELES 1984,8,JPN,Hiroko Yamasaki,56.675
+LOS ANGELES 1984,9,ESP,Marta Bobo Arce,56.375
+LOS ANGELES 1984,10,YUG,Daniela Simic,56.325
